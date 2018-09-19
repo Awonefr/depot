@@ -10,6 +10,7 @@ public class Capitale extends Ville{
 	public int nbHabitant(){
 		return this.nbHabitant;
 	}
+	//bonjour
 	public int superficie(){
 		return this.superficie;
 	}
