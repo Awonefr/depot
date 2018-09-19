@@ -11,6 +11,7 @@ public class Capitale extends Ville{
 		return this.nbHabitant;
 	}
 	//bonjour
+	//test
 	public int superficie(){
 		return this.superficie;
 	}
