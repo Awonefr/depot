@@ -1,3 +1,6 @@
+//test Amelie
+
+
 public class Capitale extends Ville{
 	//test
 	private String nom;
