@@ -1,5 +1,5 @@
-
 public class Capitale extends Ville{
+	//test
 	private String nom;
 	private int nbHabitant;
 	private int superficie;
